@@ -1,0 +1,10 @@
+C:\Users\mm1009057\source\repos\AppContactREAL\AppContactREAL.Core\bin\Debug\netstandard2.0\AppContactREAL.Core.deps.json
+C:\Users\mm1009057\source\repos\AppContactREAL\AppContactREAL.Core\bin\Debug\netstandard2.0\AppContactREAL.Core.dll
+C:\Users\mm1009057\source\repos\AppContactREAL\AppContactREAL.Core\bin\Debug\netstandard2.0\AppContactREAL.Core.pdb
+C:\Users\mm1009057\source\repos\AppContactREAL\AppContactREAL.Core\obj\Debug\netstandard2.0\AppContactREAL.Core.csproj.AssemblyReference.cache
+C:\Users\mm1009057\source\repos\AppContactREAL\AppContactREAL.Core\obj\Debug\netstandard2.0\AppContactREAL.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mm1009057\source\repos\AppContactREAL\AppContactREAL.Core\obj\Debug\netstandard2.0\AppContactREAL.Core.AssemblyInfoInputs.cache
+C:\Users\mm1009057\source\repos\AppContactREAL\AppContactREAL.Core\obj\Debug\netstandard2.0\AppContactREAL.Core.AssemblyInfo.cs
+C:\Users\mm1009057\source\repos\AppContactREAL\AppContactREAL.Core\obj\Debug\netstandard2.0\AppContactREAL.Core.csproj.CoreCompileInputs.cache
+C:\Users\mm1009057\source\repos\AppContactREAL\AppContactREAL.Core\obj\Debug\netstandard2.0\AppContactREAL.Core.dll
+C:\Users\mm1009057\source\repos\AppContactREAL\AppContactREAL.Core\obj\Debug\netstandard2.0\AppContactREAL.Core.pdb
